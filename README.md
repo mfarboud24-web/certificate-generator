@@ -45,7 +45,7 @@
 ساختار پروژه:
 
 certificate-generator/
-├── certificate_generator.ipynb  # کد اصلی
+├── certificate.py               # کد اصلی 
 ├── winners.xlsx                 # داده دانش‌آموزان
 ├── certificate.docx             # قالب تشویق‌نامه
 ├── output/                      # خروجی PDFها
